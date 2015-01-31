@@ -38,6 +38,10 @@
   height: 100%;
 }
 
+.align-left {
+	text-align: left !important;
+}
+
 
 	body,input,textarea,select
 	{
